@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ObjectPool", "ObjectPool\ObjectPool.vcxproj", "{82F40099-F101-41C4-A4CA-741DFE991F78}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "my_objectpool", "my_objectpool\my_objectpool.vcxproj", "{498B872C-4AED-4921-B600-D3A46E1D1FF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82F40099-F101-41C4-A4CA-741DFE991F78}.Debug|Win32.ActiveCfg = Debug|Win32
+		{82F40099-F101-41C4-A4CA-741DFE991F78}.Debug|Win32.Build.0 = Debug|Win32
+		{82F40099-F101-41C4-A4CA-741DFE991F78}.Release|Win32.ActiveCfg = Release|Win32
+		{82F40099-F101-41C4-A4CA-741DFE991F78}.Release|Win32.Build.0 = Release|Win32
+		{498B872C-4AED-4921-B600-D3A46E1D1FF8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{498B872C-4AED-4921-B600-D3A46E1D1FF8}.Debug|Win32.Build.0 = Debug|Win32
+		{498B872C-4AED-4921-B600-D3A46E1D1FF8}.Release|Win32.ActiveCfg = Release|Win32
+		{498B872C-4AED-4921-B600-D3A46E1D1FF8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
